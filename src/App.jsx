@@ -4,7 +4,7 @@ import Input from "./features/Input";
 
 function App() {
   return (
-    <main className="mt-4 p-4">
+    <main className="mt-4 p-4 max-w-[1300px] mx-auto">
       <NavBar />
       <Language />
       <Input />
